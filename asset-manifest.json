@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/iselein.github.io/static/css/main.bdf278c3.css",
-    "main.js": "/iselein.github.io/static/js/main.f9102e69.js",
-    "static/media/home.png": "/iselein.github.io/static/media/home.09a8362644466f00dffa.png",
-    "static/media/picture.jpg": "/iselein.github.io/static/media/picture.8610fa45fc1d4d859d84.jpg",
-    "static/media/blogLogo.png": "/iselein.github.io/static/media/blogLogo.7a6c05929ccd7ca8898e.png",
-    "index.html": "/iselein.github.io/index.html",
-    "main.bdf278c3.css.map": "/iselein.github.io/static/css/main.bdf278c3.css.map",
-    "main.f9102e69.js.map": "/iselein.github.io/static/js/main.f9102e69.js.map"
+    "main.css": "/static/css/main.d5100640.css",
+    "main.js": "/static/js/main.9600c30e.js",
+    "static/media/home.png": "/static/media/home.09a8362644466f00dffa.png",
+    "static/media/picture.jpg": "/static/media/picture.8610fa45fc1d4d859d84.jpg",
+    "static/media/blogLogo.png": "/static/media/blogLogo.7a6c05929ccd7ca8898e.png",
+    "index.html": "/index.html",
+    "main.d5100640.css.map": "/static/css/main.d5100640.css.map",
+    "main.9600c30e.js.map": "/static/js/main.9600c30e.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdf278c3.css",
-    "static/js/main.f9102e69.js"
+    "static/css/main.d5100640.css",
+    "static/js/main.9600c30e.js"
   ]
 }
